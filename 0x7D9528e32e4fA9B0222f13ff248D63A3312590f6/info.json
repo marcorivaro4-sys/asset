@@ -1,0 +1,11 @@
+{
+  "name": "Euro Digital",
+  "symbol": "EURC",
+  "type": "ERC20",
+  "decimals": 18,
+  "website": "",
+  "description": "Euro Digital (EURC) è un token ERC-20 ancorato al valore dell'euro e pensato per facilitare i pagamenti digitali decentralizzati.",
+  "explorer": "https://etherscan.io/token/0x7D9528e32e4fA9B0222f13ff248D63A3312590f6",
+  "status": "active",
+  "id": "0x7D9528e32e4fA9B0222f13ff248D63A3312590f6"
+}
